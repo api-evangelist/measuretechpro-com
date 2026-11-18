@@ -1,4 +1,4 @@
-# measuretechpro-com
+# Measure Tech PRO
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,100 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-measuretechpro-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://measuretechpro.com/
+Measure Tech PRO provides a contractor‑focused CRM and pipeline platform that streamlines job management, estimates, invoicing, and crew dispatch. Built for window and door contractors, it offers AI‑enhanced measurement tools, real‑time scheduling, integrated payments via Stripe, and QuickBooks sync. The SaaS solution includes free forever measurement features, tiered pricing for teams, and extensive support resources.
+
+**Areas:** Contractor · CRM · SaaS · AI · Construction
+
+## Measure Tech PRO on APIs.io
+
+Everything profiled for Measure Tech PRO is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/measuretechpro-com/](https://apis.io/providers/measuretechpro-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Measure Tech PRO API](https://apis.io/apis/measuretechpro-com/measure-tech-pro-api/) — API for Measure Tech PRO CRM platform
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Measure Tech PRO Domain Security](https://apis.io/security/measuretechpro-com/measuretechpro-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Measure Tech PRO Plans Pricing](https://apis.io/plans/measuretechpro-com/measuretechpro-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://measuretechpro.com/)
+- [Documentation](https://measuretechpro.com/pages/features.html)
+- [Getting started](https://measuretechpro.com/get-started.html)
+- [Pricing](https://measuretechpro.com/pages/pricing.html)
+- [Sign up](https://measuretechpro.com/dashboard/register.html)
+- [Support](https://measuretechpro.com/pages/support.html)
+- [Blog](https://measuretechpro.com/blog)
+- [Terms of service](https://measuretechpro.com/pages/terms.html)
+- [Privacy policy](https://measuretechpro.com/pages/privacy.html)
+
+## API Evangelist rating
+
+**Kin Score 25.4** — emerging · rubric 0.28.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 4.8 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 59.1 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/measuretechpro-com/](https://apis.io/providers/measuretechpro-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Measure Tech PRO: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/measuretechpro-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
